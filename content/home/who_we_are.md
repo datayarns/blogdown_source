@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "About us"
+title = "Who we are"
 subtitle = "Combining small and big data for nuanced insights"
 
 [design]
