@@ -27,7 +27,7 @@
 
 &lt;p&gt;Is this the primary user of the site?&lt;/p&gt;
 
-&lt;p&gt;superuser: false&lt;/p&gt;
+&lt;p&gt;superuser: true&lt;/p&gt;
 
 &lt;p&gt;Role/position&lt;/p&gt;
 
