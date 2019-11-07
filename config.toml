@@ -6,9 +6,7 @@
 
 # Title of your site
 title = "Data Yarns"
-
-
-
+subtitle = "Inspired research and analytics for sensemakers"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
