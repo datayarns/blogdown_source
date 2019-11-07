@@ -7,6 +7,9 @@
 # Title of your site
 title = "Data Yarns"
 
+
+
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://datayarns.github.io/"
@@ -22,6 +25,7 @@ copyright = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
+color_theme = "custom"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
