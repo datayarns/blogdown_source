@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "About us"
-subtitle = ""
+subtitle = "Combining small and big data for nuanced insights"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
