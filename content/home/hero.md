@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Data Yarns"
+subtitle = "Inspired research and analytics for sensemakers"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "logo.png"
@@ -42,8 +43,6 @@ hero_media = "logo.png"
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
 #  label = "View Documentation"
-
-
 +++
 
 **Inspired research and analytics for sensemakers**
