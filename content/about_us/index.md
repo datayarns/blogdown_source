@@ -11,6 +11,7 @@ As individuals we are set apart by our respective areas of foundational expertis
 **Portfolio**
 
 We are interested in and have a track record in developing:
+
 - Digital tools for data gathering (such as mobile phones, social media and chatbots) and their application in field experiments.
 - Methodological and analytical frameworks which combine emerging data sources (big data and citizen generated data) with traditional survey data to derive enriched insights on social change.
 - Research designs for triangulating large-scale quantitative and ethnographic research (observations, focus and individual interviews) to deepen learning.

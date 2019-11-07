@@ -14,8 +14,6 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-
-
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
