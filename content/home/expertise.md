@@ -22,15 +22,15 @@ subtitle = ""
   #description = "30%"
 
 [[feature]]
-  icon = "comments"
+  icon = "globe-africa"
   icon_pack = "fas"
-  name = "Communication"
+  name = "Global/regional outlook "
  # description = "30%"
   
 [[feature]]
   icon = "hands"
   icon_pack = "fas"
-  name = "Social Change"
+  name = "Social & Behavioural Change"
   #description = "30%"
 +++
 

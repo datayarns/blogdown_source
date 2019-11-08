@@ -27,9 +27,9 @@ subtitle = ""
  # description = "30%"
   
 [[feature]]
-  icon = "door-open"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Ethnographic research"
+  name = "Mixed-methods research"
   #description = "30%"
 +++
 
