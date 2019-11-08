@@ -16,7 +16,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "drafting-compass"
+  icon = "chess"
   icon_pack = "fas"
   name = "Program Evaluation"
   #description = "30%"
@@ -28,9 +28,9 @@ subtitle = ""
  # description = "30%"
   
 [[feature]]
-  icon = "lightbulb"
+  icon = "hands"
   icon_pack = "fas"
-  name = "Sensemaking"
+  name = "Social Change"
   #description = "30%"
 +++
 
