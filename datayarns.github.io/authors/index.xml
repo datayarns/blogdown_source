@@ -17,70 +17,7 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Display name&lt;/p&gt;
-
-&lt;p&gt;name: Data yarns&lt;/p&gt;
-
-&lt;p&gt;Username (this should match the folder name)&lt;/p&gt;
-
-&lt;p&gt;authors: - admin&lt;/p&gt;
-
-&lt;p&gt;Is this the primary user of the site?&lt;/p&gt;
-
-&lt;p&gt;superuser: true&lt;/p&gt;
-
-&lt;p&gt;Role/position&lt;/p&gt;
-
-&lt;p&gt;role: Research Consultancy&lt;/p&gt;
-
-&lt;p&gt;Organizations/Affiliations&lt;/p&gt;
-
-&lt;p&gt;organizations: - name: Stanford University url: “”&lt;/p&gt;
-
-&lt;p&gt;Short bio (displayed in user profile at end of posts)&lt;/p&gt;
-
-&lt;p&gt;#bio: My research interests include distributed robotics, mobile computing and programmable matter.&lt;/p&gt;
-
-&lt;p&gt;#interests: - Artificial Intelligence - Computational Linguistics - Information Retrieval&lt;/p&gt;
-
-&lt;p&gt;#education: courses: - course: PhD in Artificial Intelligence institution: Stanford University year: 2012 - course: MEng in Artificial Intelligence institution: Massachusetts Institute of Technology year: 2009 - course: BSc in Artificial Intelligence institution: Massachusetts Institute of Technology year: 2008&lt;/p&gt;
-
-&lt;p&gt;Social/Academic Networking&lt;/p&gt;
-
-&lt;p&gt;For available icons, see: &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/#icons&#34; target=&#34;_blank&#34;&gt;https://sourcethemes.com/academic/docs/widgets/#icons&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For an email link, use “fas” icon pack, “envelope” icon, and a link in the&lt;/p&gt;
-
-&lt;p&gt;#form “mailto:your-email@example.com” or “#contact” for contact widget.&lt;/p&gt;
-
-&lt;p&gt;#social: - icon: envelope iconpack: fas link: ‘#contact’ # For a direct email link, use “mailto:test@example.org”. - icon: twitter iconpack: fab link: &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34;&gt;https://twitter.com/GeorgeCushen&lt;/a&gt; - icon: google-scholar iconpack: ai link: &lt;a href=&#34;https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ&#34; target=&#34;_blank&#34;&gt;https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ&lt;/a&gt; - icon: github iconpack: fab link: &lt;a href=&#34;https://github.com/gcushen&#34; target=&#34;_blank&#34;&gt;https://github.com/gcushen&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Link to a PDF of your resume/CV from the About widget.&lt;/p&gt;
-
-&lt;p&gt;To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;icon: cv&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;icon_pack: ai&lt;/p&gt;
-
-&lt;p&gt;link: files/cv.pdf&lt;/p&gt;
-
-&lt;p&gt;Enter email to display Gravatar (if Gravatar enabled in Config)&lt;/p&gt;
-
-&lt;p&gt;email: “”&lt;/p&gt;
-
-&lt;p&gt;Organizational groups that you belong to (for People widget)&lt;/p&gt;
-
-&lt;p&gt;Set this to [] or comment out if you are not using People widget.&lt;/p&gt;
-
-&lt;p&gt;#user_groups: - Researchers&lt;/p&gt;
-
-&lt;p&gt;#- Visitors
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;We are a small team of research consultants with a passion for applied and critical research on social and economic development. We operate in the space between social science, data science and program evaluation to help individuals and organizations make sense of what they do to support planning and positive change. We do so by adapting cutting edge data collection and analysis tools to the needs of our clients which are informed by the social, cultural and economic realities in which they and their target audiences operate. We believe that international organisations can do and should do more to listen to, make sense of and communicate the voices of those whom they ultimately wish to serve.&lt;/p&gt;
 </description>
     </item>
     

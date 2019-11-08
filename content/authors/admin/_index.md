@@ -1,63 +1,7 @@
-
-Display name
-
-name: Data yarns
-
-Username (this should match the folder name)
-
-authors: - admin
-
-Is this the primary user of the site?
-
-superuser: true
-
-Role/position
-
-role: Research Consultancy
-
-Organizations/Affiliations
-
-organizations: - name: Stanford University url: “”
-
-Short bio (displayed in user profile at end of posts)
-
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests: - Artificial Intelligence - Computational Linguistics - Information Retrieval
-
-#education: courses: - course: PhD in Artificial Intelligence institution: Stanford University year: 2012 - course: MEng in Artificial Intelligence institution: Massachusetts Institute of Technology year: 2009 - course: BSc in Artificial Intelligence institution: Massachusetts Institute of Technology year: 2008
-
-Social/Academic Networking
-
-For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
-For an email link, use “fas” icon pack, “envelope” icon, and a link in the
-
-#form “mailto:your-email@example.com” or “#contact” for contact widget.
-
-#social: - icon: envelope iconpack: fas link: ‘#contact’ # For a direct email link, use “mailto:test@example.org”. - icon: twitter iconpack: fab link: https://twitter.com/GeorgeCushen - icon: google-scholar iconpack: ai link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ - icon: github iconpack: fab link: https://github.com/gcushen
-
-Link to a PDF of your resume/CV from the About widget.
-
-To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
-
-- icon: cv
-
-icon_pack: ai
-
-link: files/cv.pdf
-
-Enter email to display Gravatar (if Gravatar enabled in Config)
-
-email: “”
-
-Organizational groups that you belong to (for People widget)
-
-Set this to [] or comment out if you are not using People widget.
-
-#user_groups: - Researchers
-
-#- Visitors
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+---
+authors:
+- admin
+name: ""
+role: Nuanced insights for reflection, learning and decision- making combining big and small data
+---
+We are a small team of research consultants with a passion for applied and critical research on social and economic development. We operate in the space between social science, data science and program evaluation to help individuals and organizations make sense of what they do to support planning and positive change. We do so by adapting cutting edge data collection and analysis tools to the needs of our clients which are informed by the social, cultural and economic realities in which they and their target audiences operate. We believe that international organisations can do and should do more to listen to, make sense of and communicate the voices of those whom they ultimately wish to serve.
