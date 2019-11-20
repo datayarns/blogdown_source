@@ -16,16 +16,18 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "child"
+  icon_pack = "fas"
+  name = "Data-driven, people-focused, development"
+  #description = "30%"
+
+[[feature]]
   icon = "chess"
   icon_pack = "fas"
   name = "Program Evaluation"
   #description = "30%"
 
-[[feature]]
-  icon = "globe-africa"
-  icon_pack = "fas"
-  name = "Global/regional outlook "
- # description = "30%"
+
   
 [[feature]]
   icon = "hands"

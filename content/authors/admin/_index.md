@@ -12,4 +12,4 @@ We do so by adapting cutting edge data collection and analysis tools to the need
 
 We believe in the transformational potential of data and advocate that international development organisations can do and should do more to listen to, make sense of and communicate the voices of those whom they ultimately wish to serve. 
 
-You can find details on our expertise and portfolio in the [About us]({{< ref "/about_us/index.md" >}}) section.
+You can find details on our expertise and portfolio in the [Profile]({{< ref "/profile/index.md" >}}) section.
