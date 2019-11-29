@@ -8,7 +8,7 @@ draft: false
 
 Our overall research approach is informed by nuanced views of behaviour and social and organizational change and is responsive to day-to-day demands, and longer-term needs and aspirations of development practitioners their funders, and stakeholders. 
 
-As individuals we are set apart by our respective areas of foundational expertise in information and communication technologies (Evangelia), social psychology (Kavita) and social science methodology (Claudia). We are joined together by a common passion for research design and data science and a firm belief on the potential for the transformational potential of data and well-designed research. We can be contacted at **infodatayarns@gmail.com** or individually.
+As individuals we are set apart by our respective areas of foundational expertise in information and communication technologies (Evangelia), social psychology (Kavita) and social science methodology (Claudia). We are joined together by a common passion for research design and data science and a firm belief in the transformational power of data and well-designed research. We can be contacted at **infodatayarns@gmail.com** or individually.
 
 
 **Dr Evangelia Berdou**
