@@ -8,7 +8,7 @@ draft: false
 
 Our overall research approach is informed by nuanced views of behaviour and social and organizational change and is responsive to day-to-day demands, and longer-term needs and aspirations of development practitioners their funders, and stakeholders. 
 
-As individuals we are set apart by our respective areas of foundational expertise in information and communication technologies (Evangelia), social psychology (Kavita) and social science methodology (Claudia). We are joined together by a common passion for research design and data science and a firm belief in the transformational power of data and well-designed research. We can be contacted at **infodatayarns@gmail.com** or individually.
+As individuals we are set apart by our respective areas of foundational expertise in information and communication technologies (Evangelia), social psychology (Kavita). We are joined together by a common passion for research design and data science and a firm belief in the transformational power of data and well-designed research. We can be contacted at **infodatayarns@gmail.com** or individually.
 
 
 **Dr Evangelia Berdou**
@@ -26,19 +26,6 @@ Evangelia can be contacted at: **evangeliaberdou@gmail.com**.
 Prior to founding Simplicity, Kavita was BBC Director, Research and Learning for 8 years where she managed research and evidence with a team of 100 researchers in 28 countries. Over the last 10 years she has been leading a seminar series which seeks to bridge theory and practice in collaboration with the LSE's Department of Psychological and Behavioural Sciences. In 2017, she founded the [Media Social Norms Collaborator] (https://simplicityconsulting.co.uk/msn-collaborator), a space seeking to support more relevant research and impactful interventions by facilitating exchanges between scientists and practitioners. 
 
 Kavita can be contacted at: **kavita@simplicityconsulting.co.uk**
-
-
-
-**Dr Claudia Abreu Lopes** 
-
-[Claudia](https://www.linkedin.com/in/claudia-abreu-lopes-219344a/) holds a PhD in Social Research Methods from the LSE. Her expertise lies in digital research methods and the applications of big data to monitor and accelerate progress of sustainable development goals related and gender equality universal health coverage.
-
-She is currently a [Research Fellow] (https://iigh.unu.edu/about/the-team/claudia-abreu-lopes#overview) at the United Nations University at the International Institute for Global Health, in Kuala Lumpur, Malaysia, where she is applying her expertise to develop evidence-based policy related to gender equality and digital health. Before joining UNU, Claudia spent 20 years in academia at the Department of Politics and International Studies at the University of Cambridge (UK), LSE’s Department of Psychological and Behavioural Sciences and Faculty of Psychology at the University of Coimbra (Portugal). As a consultant, she has undertaken work that demonstrated the value of using alternative data sources such as big data and citizen-generated data to incorporate citizens’ perspectives in the design and evaluation of development interventions (UN Women, Girl Effect, Africa’s Voices Foundation).
-
-Claudia can be contacted at: **claudia.lopes@unu.edu**.
-
-
-
 
 ## Portfolio 
 
