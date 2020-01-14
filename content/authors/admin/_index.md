@@ -1,8 +1,11 @@
 ---
+title: ''
+author: ''
+date: '2020-01-14'
 authors:
-- admin
-name: ""
-role: Nuanced insights for reflection, learning and decision- making combining big and small data
+  - admin
+role: Nuanced insights for reflection, learning and decision- making combining big
+  and small data
 ---
 
 We are a small team of research consultants with a passion for applied and critical research on social and economic development. We hold PhDs from the LSE in Media and Communications, Social Psychology and Methodology. Together, we have more than 20 years of research, teaching and advisory experience in the media-for-development sector. 
