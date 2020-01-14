@@ -8,7 +8,7 @@ role: Nuanced insights for reflection, learning and decision- making combining b
   and small data
 ---
 
-We are a small team of research consultants with a passion for applied and critical research on social and economic development. We hold PhDs from the LSE in Media and Communications, Social Psychology and Methodology. Together, we have more than 20 years of research, teaching and advisory experience in the media-for-development sector. 
+We are a small team of research consultants with a passion for applied and critical research on social and economic development. We hold PhDs from the LSE in Media and Communications and Social Psychology. Together, we have more than 20 years of research, teaching and advisory experience in the media-for-development sector. 
 
 We operate in the space between social science, data science and program evaluation to help individuals and organizations make sense of what they do to support planning and positive social and behaviour change. 
 
